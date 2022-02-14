@@ -1,5 +1,7 @@
 # OOP Game Show App
-Fourth project of the Team Treehouse Full Stack JavaScript Techdegree.
+Fourth project of the Team Treehouse Full Stack JavaScript Techdegree by Lindsey.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Phrase Hunter
 This game is all about guessing a random phrase, from a predifined list of five phrases, before making five wrong guesses.
