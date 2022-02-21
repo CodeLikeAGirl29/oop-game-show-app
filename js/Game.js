@@ -11,7 +11,6 @@ class Game {
     }
 
     /*
-    I chose to create the phrases array in a method. It seems more module and cleaner to me.
     Creates the array that contains phrase objects and returns it.
     @return {array} an array of phrases that we will use in the game.
     */
@@ -22,6 +21,8 @@ class Game {
             {phrase: 'Fox and the Hound'},
             {phrase: 'Dumbo'},
             {phrase: 'The Princess and the Frog'},
+            {phrase: 'The Great Mouse Detective'},
+            {phrase: 'Oliver and Company'},
             {phrase: 'The Lady and the Tramp'}
         ];  
         return phraseList;      
